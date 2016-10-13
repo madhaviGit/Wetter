@@ -6,5 +6,8 @@ package com.example.madhavi.wetter;
 public class Cityname {
 
 
+
     public void sample(){int a=20;}
+    public void sample1(){int a=20;}
+
 }
